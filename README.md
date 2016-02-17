@@ -1,0 +1,1 @@
+# R1_cgminer_package
